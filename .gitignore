@@ -1,3 +1,13 @@
 # Workspace settings and Environments #
 DjangoBlogProjectVenv
 .vscode
+
+# Migrations
+DjangoBlogProject/blog/migrations
+
+# pycache
+DjangoBlogProject/blog/__pycache__
+DjangoBlogProject/DjangoBlogProject/__pycache__
+
+# Database
+DjangoBlogProject/db.sqlite3
