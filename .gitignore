@@ -6,8 +6,7 @@ DjangoBlogProjectVenv
 DjangoBlogProject/blog/migrations
 
 # pycache
-DjangoBlogProject/blog/__pycache__
-DjangoBlogProject/DjangoBlogProject/__pycache__
+__pycache__/
 
 # Database
-DjangoBlogProject/db.sqlite3
+db.sqlite3
